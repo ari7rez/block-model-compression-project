@@ -1,0 +1,34 @@
+12,9,3,3,3,3
+o, sea
+s, stone
+t, tailings
+
+oooooossssss
+oooooossssss
+oooooossssss
+oooooosssttt
+oooooosssttt
+oooooosssttt
+oooooossssss
+oooooossssss
+oooooossssss
+
+oooooossssss
+oooooossssss
+oooooossssss
+oooooosssttt
+oooooosssttt
+oooooosssttt
+oooooossssss
+oooooossssss
+oooooossssss
+
+oooooossssss
+oooooossssss
+oooooossssss
+oooooosssttt
+oooooosssttt
+oooooosssttt
+oooooossssss
+oooooossssss
+oooooossssss

@@ -1,0 +1,18 @@
+8,6,2,4,3,1
+a, Air
+b, Brick
+c, Concrete
+
+aaaabbbb
+aaaabbbb
+aaaabbbb
+aaaabbbb
+aaaabbcc
+aaaabbcc
+
+aaaabbbb
+aaaabbbb
+aaaabbbb
+aaaabbbb
+aaaabbbb
+aaaabbbb

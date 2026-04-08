@@ -1,0 +1,12 @@
+4,3,2,2,3,1
+a, Air
+b, Brick
+c, Concrete
+
+aaba
+abba
+aaaa
+
+bbba
+bbba
+bbbb

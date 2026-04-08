@@ -1,0 +1,16 @@
+Sources: 
+    'How to Set Up a GitHub Repo for an Amazing Developer Experience' youtube video: https://www.youtube.com/watch?v=rquGUir-MBI
+    profanity repository: https://github.com/profanity-im/profanity/tree/master
+    freeCodeCamp repository: https://github.com/freeCodeCamp/freeCodeCamp
+
+1. Comprehensive README file
+2. Create a CONTRIBUTING.md
+3. Issue and pull request templates
+4. LICENSE file
+5. Code of conduct
+6. Tags, releases, versioning (CHANGELOG)
+7. Explain how to run tests
+8. List authors
+9. Keep only relevant files in the repo (no compiled binaries, .exe, .o, or temporary files)
+10. Add to .gitignore
+11. Add badges (e.g. ![Build](https://github.com/username/repo/actions/workflows/build.yml/badge.svg))
